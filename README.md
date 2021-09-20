@@ -1,7 +1,6 @@
 ### Dorivan Kadatz Borba - [Estudante Cientista de Dados] 👋
 
-## Depois de algum tempo estudando ADS, conheci Ciência de Dados e me apaixonei, tanto, que transferi meu curso para Ciência de Dados na UniCesumar,
-e redirecionei todo meu foco para esse mundo, hoje meu objetivo é buscar o máximo de conhecimento para agregar valor onde quer que eu esteja.
+## Depois de algum tempo estudando ADS, conheci Ciência de Dados e me apaixonei, tanto, que transferi meu curso para Ciência de Dados na UniCesumar, e redirecionei todo meu foco para esse mundo, hoje meu objetivo é buscar o máximo de conhecimento para agregar valor onde quer que eu esteja.
 
 - 💻 Eu sou um Ciêntista de Dados
 - 📈 Eu estou em constante desenvolvimento para melhorar minhas habilidades 🤣
