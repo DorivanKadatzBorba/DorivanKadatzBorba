@@ -1,6 +1,6 @@
 ### Dorivan Kadatz Borba - [Estudante Cientista de Dados] 👋
 
-## Atualmente moro em Vilhena - RO, estudo Data Science desde o início de 2021, antes já havia cursado 2 semestres em ADS, foi onde conheci e tive vontade de me aprofundar em Data Science, iniciei uma graduação em Ciência de Dados na UniCesumar em Fev/2021, e busco me aprimorar em todos os tipos de plataformas buscando conhecimento com vários educadores para ter experiência e conhecimento diversos, todos têm algo a ensinar.
+## Estudo Data Science desde o início de 2021, antes já havia cursado 2 semestres em ADS, foi onde conheci e tive vontade de me aprofundar em Data Science, iniciei uma graduação em Ciência de Dados na UniCesumar em Fev/2021, meu objetivo é me tornar um Cientista de Dados Full Stack, sei que o caminho é longo, também sei que não é impossível.
 
 - 💻 Eu sou um eterno estudante de Ciências de Dados
 - 📈 Eu estou em constante desenvolvimento para melhorar minhas habilidades
