@@ -10,7 +10,7 @@
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/dorivan-kadatz-borba-abb0761b8/)
 
-[<img align="left" alt="Kadatz | YouTube" width="22px" src="https://th.bing.com/th/id/OIP._GtGNuF1vwgrzARaUkw-dwHaEK?pid=ImgDet&rs=1" />](https://www.youtube.com/channel/UCdiC_le9fLGy3Fj09NL0rzA)
+[<img align="left" alt="Kadatz | YouTube" width="22px" src="https://1.bp.blogspot.com/-zPnHKpUdViY/X0OzA6pRnXI/AAAAAAAAAQM/LZQbELfm9BQK6nIkju-1t4KqMVxcPkRdQCLcBGAsYHQ/s1912/logo%2Byt%2Byogiancreative1.png" />](https://www.youtube.com/channel/UCdiC_le9fLGy3Fj09NL0rzA)
 
 
 
@@ -24,7 +24,7 @@
 
 <img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
 
-<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" />
+<img align="left" alt="Docker" width="26px" src="https://th.bing.com/th/id/R.f56174382f698556d4d63de4d8c70e48?rik=7TNZh0Qu7rB3qg&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fDocker_logo.png&ehk=3bIEk6kEfOfkM%2fXL3vD30cFCffWkz%2fhymoTC2pq9GVU%3d&risl=&pid=ImgRaw&r=0" />
 
 <img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
 
