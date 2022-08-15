@@ -8,15 +8,15 @@
 
 ### Minhas redes:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/dorivan-kadatz-borba-abb0761b8/)
+[<img align="left"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/dorivan-kadatz-borba-abb0761b8/)
 
-[<img align="left" alt="Kadatz | YouTube" width="26px" src="https://1.bp.blogspot.com/-zPnHKpUdViY/X0OzA6pRnXI/AAAAAAAAAQM/LZQbELfm9BQK6nIkju-1t4KqMVxcPkRdQCLcBGAsYHQ/s1912/logo%2Byt%2Byogiancreative1.png" />](https://www.youtube.com/channel/UCdiC_le9fLGy3Fj09NL0rzA)
+[<img align="left" alt="Kadatz | YouTube" width="30px" src="https://1.bp.blogspot.com/-zPnHKpUdViY/X0OzA6pRnXI/AAAAAAAAAQM/LZQbELfm9BQK6nIkju-1t4KqMVxcPkRdQCLcBGAsYHQ/s1912/logo%2Byt%2Byogiancreative1.png" />](https://www.youtube.com/channel/UCdiC_le9fLGy3Fj09NL0rzA)
 
 
 
 <br />
 
-### Languages and Tools:
+### Languagens e Ferramentas:
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
