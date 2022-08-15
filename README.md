@@ -1,6 +1,6 @@
 ### Dorivan Kadatz Borba - [Estudante Cientista de Dados] 👋
 
-## Estudo Data Science desde o início de 2021, antes já havia cursado 2 semestres em ADS, foi onde conheci e tive vontade de me aprofundar em Data Science, iniciei uma graduação em Ciência de Dados na UniCesumar em Fev/2021, meu objetivo é me tornar um Cientista de Dados Full Stack, sei que o caminho é longo, também sei que não é impossível.
+## Sou estudante dedicado a área de Ciência de dados, estou em busca da minha primeira oportunidade no setor tecnológico em específico como profissional cientista de dados, me dedico diariamente em estudos para estar melhor preparado para qualquer desafio proposto.
 
 - 💻 Eu sou um eterno estudante de Ciências de Dados
 - 📈 Eu estou em constante desenvolvimento para melhorar minhas habilidades
@@ -10,7 +10,7 @@
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/dorivan-kadatz-borba-abb0761b8/)
 
-[<img align="left" alt="Dorivan Kadatz Borba | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/dorivankadatz/)
+[<img align="left" alt="Kadatz | YouTube" width="22px" src="https://th.bing.com/th/id/OIP._GtGNuF1vwgrzARaUkw-dwHaEK?pid=ImgDet&rs=1" />](https://www.youtube.com/channel/UCdiC_le9fLGy3Fj09NL0rzA)
 
 
 
