@@ -14,6 +14,8 @@
 
 [<img align="left" alt="Kadatz | Instagram" width="26px" src="https://th.bing.com/th/id/R.6e7857e574c2957ad3b3d59933f2d469?rik=FlXeK7AjRF5bSQ&pid=ImgRaw&r=0" />](https://www.instagram.com/dorivan_kadatz/)
 
+[<img align="left" alt="Kadatz | Kaggle" width="26px" src="[https://th.bing.com/th/id/R.6e7857e574c2957ad3b3d59933f2d469?rik=FlXeK7AjRF5bSQ&pid=ImgRaw&r=0](https://www.bing.com/images/search?view=detailV2&ccid=Zgm9ppzk&id=BF51DA32072E4BAA848183B467BEF6B3CA56C07C&thid=OIP.Zgm9ppzkOfRLs7JxeAs_RgHaHa&mediaurl=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Flogos-and-brands-adobe%2F512%2F189_Kaggle-512.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.6609bda69ce439f44bb3b271780b3f46%3Frik%3DfMBWyrP2vme0gw%26pid%3DImgRaw%26r%3D0&exph=512&expw=512&q=kaggle+icon+png&simid=608048145638098279&form=IRPRST&ck=108927751E3A3E188CDC7891CCFD44BA&selectedindex=0&ajaxhist=0&ajaxserp=0&vt=3&sim=1&cal=0.21875744&cab=0.96785325&cat=0.036739886&car=0.7764467&hotspot=1)" />](https://www.kaggle.com/dorivankadatz)
+
 
 <br />
 
