@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Kadatz | Instagram" width="26px" src="https://th.bing.com/th/id/R.6e7857e574c2957ad3b3d59933f2d469?rik=FlXeK7AjRF5bSQ&pid=ImgRaw&r=0" />](https://www.instagram.com/dorivan_kadatz/)
 
-[<img align="left" alt="Kadatz | Kaggle" width="26px" src="https://www.bing.com/images/search?view=detailV2&ccid=Zgm9ppzk&id=BF51DA32072E4BAA848183B467BEF6B3CA56C07C&thid=OIP.Zgm9ppzkOfRLs7JxeAs_RgHaHa&mediaurl=https%3a%2f%2fcdn3.iconfinder.com%2fdata%2ficons%2flogos-and-brands-adobe%2f512%2f189_Kaggle-512.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6609bda69ce439f44bb3b271780b3f46%3frik%3dfMBWyrP2vme0gw%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=kaggle+icon+png&simid=608048145638098279&FORM=IRPRST&ck=108927751E3A3E188CDC7891CCFD44BA&selectedIndex=0&ajaxhist=0&ajaxserp=0" />](https://www.kaggle.com/dorivankadatz)
+[<img align="left" alt="Kadatz | Kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />](https://www.kaggle.com/dorivankadatz)
 
 
 <br />
