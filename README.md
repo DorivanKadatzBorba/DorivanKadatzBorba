@@ -1,6 +1,6 @@
 ### Dorivan Kadatz Borba - [Estudante Cientista de Dados] 👋
 
-## Sou estudante dedicado à área de Ciência de dados, estou em busca da minha primeira oportunidade no setor tecnológico em específico como profissional cientista de dados, me dedico diariamente em estudos para estar melhor preparado para qualquer desafio proposto.
+## Sou estudante dedicado à área de Ciência de dados, me dedico diariamente em estudos para estar melhor preparado para qualquer desafio proposto.
 
 - 💻 Eu sou um eterno estudante de Ciências de Dados
 - 📈 Eu estou em constante desenvolvimento para melhorar minhas habilidades
