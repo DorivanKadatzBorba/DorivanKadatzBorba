@@ -1,4 +1,5 @@
-### Dorivan Kadatz Borba - [Estudante Cientista de Dados] 👋
+### PT-BR Language
+### Dorivan Kadatz Borba - [Cientista de Dados] 👋
 
 ## Sou estudante dedicado à área de Ciência de dados, me dedico diariamente em estudos para estar melhor preparado para qualquer desafio proposto.
 
