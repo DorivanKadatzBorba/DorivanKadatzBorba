@@ -13,8 +13,6 @@
 
 [<img align="left" alt="Kadatz | YouTube" width="30px" src="https://1.bp.blogspot.com/-zPnHKpUdViY/X0OzA6pRnXI/AAAAAAAAAQM/LZQbELfm9BQK6nIkju-1t4KqMVxcPkRdQCLcBGAsYHQ/s1912/logo%2Byt%2Byogiancreative1.png" />](https://www.youtube.com/channel/UCdiC_le9fLGy3Fj09NL0rzA)
 
-[<img align="left" alt="Kadatz | Instagram" width="26px" src="https://th.bing.com/th/id/R.6e7857e574c2957ad3b3d59933f2d469?rik=FlXeK7AjRF5bSQ&pid=ImgRaw&r=0" />](https://www.instagram.com/dorivan_kadatz/)
-
 [<img align="left" alt="Kadatz | Kaggle" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />](https://www.kaggle.com/dorivankadatz)
 
 
