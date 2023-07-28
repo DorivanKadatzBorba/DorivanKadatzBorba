@@ -1,7 +1,7 @@
 ### PT-BR Language
 ### Dorivan Kadatz Borba - [Cientista de Dados] 👋
 
-## Procuro obter conhecimento em áreas diversas para resolver qualquer desafio, estou sempre pronto para desbravar novos caminhos. Cientista de dados Jr e desenvolvedor mobile Jr Python | Machine learning | Tecnologias de Análise e Processamento de dados | Java Script | React Native |.
+## Gosto obter conhecimento em áreas diversas para resolver qualquer desafio, estou sempre pronto para desbravar novos caminhos.
 
 - 💻 Eu sou um eterno estudante de Ciências de Dados
 - 📈 Eu estou em constante desenvolvimento para melhorar minhas habilidades
