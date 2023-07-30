@@ -34,7 +34,7 @@
 
 <br />
 
-<img align="left" alt="Machine Learning" width="300px" src="https://www.pngfind.com/pngs/m/552-5522556_how-to-become-a-machine-learning-engineer-neural.png" />
+<img align="right" alt="Machine Learning" width="500px" src="https://www.pngfind.com/pngs/m/552-5522556_how-to-become-a-machine-learning-engineer-neural.png" />
 
 
 
