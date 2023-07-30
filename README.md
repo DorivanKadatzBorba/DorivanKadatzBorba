@@ -25,13 +25,13 @@
 
 <img align="left" alt="Pandas" width="30px" src="https://th.bing.com/th/id/OIP.dW8d9ew3zxfZKB9Id6uqHgAAAA?pid=ImgDet&rs=1" />
 
-<img align="left" alt="Scikit-Learn" width="30px" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" />
+<img align="left" alt="Scikit-Learn" width="50px" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" />
 
-<img align="left" alt="XGBoost" width="40px" src="https://th.bing.com/th/id/OIP.6psfUs1NqQlt2tsH3M7ZfwAAAA?pid=ImgDet&rs=1" />
+<img align="left" alt="XGBoost" width="60px" src="https://th.bing.com/th/id/OIP.6psfUs1NqQlt2tsH3M7ZfwAAAA?pid=ImgDet&rs=1" />
 
-<img align="left" alt="Machine Learning" width="30px" src="https://th.bing.com/th/id/R.0fdfa8346c1486b436460758eaf6466c?rik=tDmMtDjbLLr6gg&pid=ImgRaw&r=0" />
+<img align="left" alt="Machine Learning" width="25px" src="https://th.bing.com/th/id/R.0fdfa8346c1486b436460758eaf6466c?rik=tDmMtDjbLLr6gg&pid=ImgRaw&r=0" />
 
-<img align="left" alt="SQL Language" width="35px" src="https://th.bing.com/th/id/R.ed064afe2689d89b1c0ff2baedf54603?rik=IDo4ha46Q7NS5g&pid=ImgRaw&r=0" />
+<img align="left" alt="SQL Language" width="40px" src="https://th.bing.com/th/id/R.ed064afe2689d89b1c0ff2baedf54603?rik=IDo4ha46Q7NS5g&pid=ImgRaw&r=0" />
 
 <img align="left" alt="Java Script" width="30px" src="https://w7.pngwing.com/pngs/199/348/png-transparent-javascript-programmer-programming-language-computer-programming-node-js-angle-text-rectangle.png" />
 
@@ -39,7 +39,7 @@
 
 <img align="left" alt="Docker" width="40px" src="https://th.bing.com/th/id/R.f56174382f698556d4d63de4d8c70e48?rik=7TNZh0Qu7rB3qg&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fDocker_logo.png&ehk=3bIEk6kEfOfkM%2fXL3vD30cFCffWkz%2fhymoTC2pq9GVU%3d&risl=&pid=ImgRaw&r=0" />
 
-<img align="left" alt="Apache Airflow" width="40px" src="https://th.bing.com/th/id/OIP.FJsMPN5kPMI7JuqhsaP7rAHaC3?pid=ImgDet&rs=1" />
+<img align="left" alt="Apache Airflow" width="50px" src="https://th.bing.com/th/id/OIP.FJsMPN5kPMI7JuqhsaP7rAHaC3?pid=ImgDet&rs=1" />
 
 
 
