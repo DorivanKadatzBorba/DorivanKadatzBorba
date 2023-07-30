@@ -22,7 +22,7 @@
 
 <img align="left" alt="Python" width="33px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<img align="left" alt="Scikit Learn" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Scikit_learn_logo.svg/1200px-Scikit_learn_logo.svg.png" />
+<img align="left" alt="Scikit Learn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Scikit_learn_logo.svg/1200px-Scikit_learn_logo.svg.png" />
 
 <img align="left" alt="Java Script" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
 
