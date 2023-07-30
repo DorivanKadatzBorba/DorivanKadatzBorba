@@ -22,7 +22,7 @@
 
 <img align="left" alt="Python" width="33px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<img align="left" alt="Machine Learning" width="100px" src="https://www.pngitem.com/pimgs/m/346-3460443_machine-learning-course-near-me-machine-learning-logo.png" />
+<img align="left" alt="Machine Learning" width="50px" src="https://www.pngfind.com/pngs/m/552-5522556_how-to-become-a-machine-learning-engineer-neural.png" />
 
 <img align="left" alt="Java Script" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
 
