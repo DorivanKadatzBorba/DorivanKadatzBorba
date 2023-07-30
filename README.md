@@ -33,7 +33,7 @@
 <img align="left" alt="Apache Airflow" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" />
 
 
-<img align="right" alt="Machine Learning" width="500px" src="https://www.pngitem.com/pimgs/m/346-3460443_machine-learning-course-near-me-machine-learning-logo.png" />
+<img align="right" alt="Machine Learning" width="500px" src="https://github.com/DorivanKadatzBorba/DorivanKadatzBorba/blob/main/PngItem_3460443.png" />
 
 
 
