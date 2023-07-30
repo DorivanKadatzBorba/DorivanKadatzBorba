@@ -1,15 +1,16 @@
 ### PT-BR Language
-### Dorivan Kadatz Borba - [Cientista de Dados] 👋
+### Dorivan Kadatz Borba - [Cientista de Dados jr e Desenvolvedor Mobile Jr] 👋
 
+## Apaixonado por MMORPG e guitarras.
 ## Gosto obter conhecimento em áreas diversas para resolver qualquer desafio, estou sempre pronto para desbravar novos caminhos.
 
-- 💻 Eu sou um eterno estudante de Ciências de Dados
+- 💻 Eu sou um eterno estudante de Tecnologia
 - 📈 Eu estou em constante desenvolvimento para melhorar minhas habilidades
 - 📊 Pretendo colaborar com outros cientistas de dados e desenvolvedores
 
 ### Minhas redes:
 
-[<img align="left"  width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/datascience-dorivan/)
+[<img align="left"  width="26px"  src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bc1OT2VS%2FR3WOkqercUBuDQ%3D%3D" />](https://www.linkedin.com/in/datascience-dorivan/)
 
 [<img align="left" alt="Kadatz | YouTube" width="30px" src="https://1.bp.blogspot.com/-zPnHKpUdViY/X0OzA6pRnXI/AAAAAAAAAQM/LZQbELfm9BQK6nIkju-1t4KqMVxcPkRdQCLcBGAsYHQ/s1912/logo%2Byt%2Byogiancreative1.png" />](https://www.youtube.com/channel/UCdiC_le9fLGy3Fj09NL0rzA)
 
@@ -20,19 +21,27 @@
 
 ### Languagens e Ferramentas:
 
-<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
-<img align="left" alt="visual studio code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Pandas" width="26px" src="https://th.bing.com/th/id/OIP.dW8d9ew3zxfZKB9Id6uqHgAAAA?pid=ImgDet&rs=1" />
 
-<img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+<img align="left" alt="Scikit-Learn" width="26px" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" />
+
+<img align="left" alt="XGBoost" width="26px" src="https://th.bing.com/th/id/OIP.6psfUs1NqQlt2tsH3M7ZfwAAAA?pid=ImgDet&rs=1" />
+
+<img align="left" alt="Machine Learning" width="26px" src="https://th.bing.com/th/id/R.0fdfa8346c1486b436460758eaf6466c?rik=tDmMtDjbLLr6gg&pid=ImgRaw&r=0" />
+
+<img align="left" alt="SQL Language" width="26px" src="https://th.bing.com/th/id/R.ed064afe2689d89b1c0ff2baedf54603?rik=IDo4ha46Q7NS5g&pid=ImgRaw&r=0" />
+
+<img align="left" alt="Java Script" width="26px" src="https://w7.pngwing.com/pngs/199/348/png-transparent-javascript-programmer-programming-language-computer-programming-node-js-angle-text-rectangle.png" />
+
+<img align="left" alt="React Native" width="26px" src="https://th.bing.com/th/id/OIP.STGovdwdLALiCqqaY4-R-wHaF8?pid=ImgDet&rs=1" />
 
 <img align="left" alt="Docker" width="26px" src="https://th.bing.com/th/id/R.f56174382f698556d4d63de4d8c70e48?rik=7TNZh0Qu7rB3qg&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fDocker_logo.png&ehk=3bIEk6kEfOfkM%2fXL3vD30cFCffWkz%2fhymoTC2pq9GVU%3d&risl=&pid=ImgRaw&r=0" />
 
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
+<img align="left" alt="Apache Airflow" width="26px" src="https://th.bing.com/th/id/OIP.FJsMPN5kPMI7JuqhsaP7rAHaC3?pid=ImgDet&rs=1" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 
 
