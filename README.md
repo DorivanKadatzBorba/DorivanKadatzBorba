@@ -22,6 +22,8 @@
 
 <img align="left" alt="Python" width="33px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
+<img align="right" alt="Machine Learning" width="50px" src="https://github.com/DorivanKadatzBorba/DorivanKadatzBorba/blob/main/PngItem_3460443.png" />
+
 <img align="left" alt="Java Script" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" />
 
 <img align="left" alt="React Native" width="90px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" />
@@ -31,11 +33,6 @@
 <img align="left" alt="Docker" width="40px" src="https://th.bing.com/th/id/R.f56174382f698556d4d63de4d8c70e48?rik=7TNZh0Qu7rB3qg&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fDocker_logo.png&ehk=3bIEk6kEfOfkM%2fXL3vD30cFCffWkz%2fhymoTC2pq9GVU%3d&risl=&pid=ImgRaw&r=0" />
 
 <img align="left" alt="Apache Airflow" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" />
-
-
-<img align="right" alt="Machine Learning" width="500px" src="https://github.com/DorivanKadatzBorba/DorivanKadatzBorba/blob/main/PngItem_3460443.png" />
-
-
 
 
 
